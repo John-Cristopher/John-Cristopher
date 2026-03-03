@@ -9,8 +9,3 @@
 
 ## Em Desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=js,css,react)](https://skillicons.dev)
-
-<div style="display inline">
-  <img alt="Meus status" align="left" height="145em" src="https://github-readme-stats.vercel.app/api?username=John-Cristopher&show_icons=true&theme=tokyonight"/>
-  <img alt="Top Linguagens" align="left" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-Cristopher&layout=compact&theme=tokyonight"/>
-</div>
