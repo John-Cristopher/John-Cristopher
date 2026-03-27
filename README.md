@@ -11,6 +11,7 @@
 ## 🛠️ Tecnologias
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📚 Em aprendizado
@@ -22,16 +23,4 @@
 [Acessar terminal Helldiver](https://ministry-of-truth-seven.vercel.app/)
 
 ## 📫 Contato
-
-
-# Olá! Eu sou o John 👋
-- 🧑‍💻 Atualmente, sou um estudante do SENAI no curso de Desenvolvimento de Sistemas.
-- 🏎️ Fato curioso: Sou um fã de carros (claro não sei quase nada deles).
-
-<div style="display inline">
-  
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,python)](https://skillicons.dev)
-</div>
-
-## Em Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=js,tailwind)](https://skillicons.dev)
+Email: john.cristopher.senai@gmail.com
