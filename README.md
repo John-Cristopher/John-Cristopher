@@ -20,8 +20,8 @@
 - ⚡ JavaScript (lógica e DOM)
 - 🎨 TailwindCSS (responsividade e layout)
 
-## 🌐 Projeto Especial
-[Acessar terminal Helldiver](https://ministry-of-truth-seven.vercel.app/)
+# 🌐 Novo projeto em andamento
+⚪ Site de equipe médica especializada em extrações!
 
 ## 📫 Contato
 Email: john.cristopher.senai@gmail.com
