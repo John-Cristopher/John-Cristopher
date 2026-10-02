@@ -21,7 +21,7 @@
 - 🎨 TailwindCSS (responsividade e layout)
 
 # 🌐 Novo projeto em andamento
-⚪ Site de equipe médica especializada em extrações!
+⚪ Equipe médica especializada em extrações! Trauma Team
 
 ## 📫 Contato
 Email: john.cristopher.senai@gmail.com
